@@ -1,3 +1,6 @@
 /Source/.vs
 /Source/SRX.Web/obj
 /Source/SRX.Web/bin
+/Source/SRX.Web/Properties/PublishProfiles
+Source/SRX.Web/Properties/PublishProfiles/IISProfile.pubxml
+Source/SRX.Web/Properties/PublishProfiles/IISProfile.pubxml.user

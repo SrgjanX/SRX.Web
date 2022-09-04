@@ -53,3 +53,13 @@ main {
     font-weight: 600;
     font-size: 1.2em;
 }
+
+.faicon{
+    font-size:30px;
+    color:white;
+}
+
+.userLink {
+    /*Cursor: text !important;*/
+    Text-Decoration: None !important;
+}
