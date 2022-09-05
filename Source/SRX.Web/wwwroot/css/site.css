@@ -13,6 +13,11 @@ html {
   min-height: 100%;
 }
 
+@font-face {
+    font-family: 'Lucida Console';
+    src: url('../fonts/Lucida Console Regular/Lucida Console Regular.ttf');
+}
+
 body {
     margin: 0;
     display: flex;
