@@ -1,21 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <Authors>Srgjan Ristovski</Authors>
     <Company>Srgjan Ristovski</Company>
-    <Copyright>Srgjan Ristovski 2022</Copyright>
+    <Description>My personal website.</Description>
+    <Copyright>Copyright (c) 2022 Srgjan Ristovski</Copyright>
     <RepositoryUrl>https://github.com/SrgjanX/SRX.Web</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.8" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\fonts\" />
-  </ItemGroup>
-
 </Project>
